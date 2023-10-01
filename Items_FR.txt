@@ -1,0 +1,6 @@
+Items_FR = {
+
+	DisplayName_Reinforced_Baseball_Bat = "Batte de baseball renforcée",
+	DisplayName_Viking_Axe = "Hache Viking",
+
+}
