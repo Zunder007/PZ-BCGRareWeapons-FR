@@ -1,0 +1,4 @@
+ItemName_FR = {
+	ItemName_BCGRareWeapons.ReinforcedBaseballBat = "Batte de Baseball renforcée",
+	ItemName_BCGRareWeapons.VikingAxe = "Hache de Viking",
+}
